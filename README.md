@@ -1,2 +1,1 @@
-# dice_app 
-hi
+# dice_app bye
